@@ -3,6 +3,7 @@ version: ${project.version}
 main: com.danimania.anarchycore.AnarchyCore
 authors: [danimania]
 description: Core plugin for anarchy servers written by danimania
+folia-supported: true
 commands:
   help:
     description: Helps you! :)
