@@ -39,4 +39,6 @@ A lightweight, handy, fully-configurable Paper plugin that serves as core-plugin
 * /kill - Kills you
 <br><br>And more...
 
-### TO BE CONTINUED...
+### Supported for folia server 
+* Plugins in beta , maybe broken
+  
